@@ -1,0 +1,31 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ–¤
+o
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö·›Ø
+E
+java:S1604o"(Make this anonymous inner class a lambda(°ï‰¢8è¾É§Þ0
+_
+java:S4973§"<Strings and Boxed types should be compared using "equals()".(¥ÐôÆøÿÿÿÿ8Ÿ±Î§Þ0
+c
+java:S1659"HDeclare "weightLabel" and all following declarations on a separate line.(§¿À‹ùÿÿÿÿ
+c
+java:S1659"HDeclare "weightField" and all following declarations on a separate line.(ÃË»Ùüÿÿÿÿ
+G
+java:S1659",Declare "addCargoButton" on a separate line.(ææËÍýÿÿÿÿ
+b
+java:S1659"GDeclare "tablePanel" and all following declarations on a separate line.(ÓÍ»»øÿÿÿÿ
+G
+java:S1948",Make "cargaisons" transient or serializable.(ÃôÛ‹üÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÃôÛ‹üÿÿÿÿ
+ƒ
+java:S1149À"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ö«žÒ8ü±Î§Þ0
+G
+java:S1481]"*Remove this unused "table" local variable.(ðóÜ¸8ç¶Å§Þ0
+E
+java:S1172¼"(Remove this unused method parameter "e".(Èê¿38«²Î§Þ0
+l
+java:S3252È"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(®ûŸúÿÿÿÿ8«²Î§Þ0
+I
+java:S1068".Remove this unused "tablePanel" private field.(ÓÍ»»øÿÿÿÿ
